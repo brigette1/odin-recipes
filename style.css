@@ -1,0 +1,24 @@
+body.index {
+    text-align: center;
+}
+
+#title {
+    font-weight: 700;
+    font-size: 100px;
+    font-family: "Garamond", "Georgia", serif;
+    color: #D11A06
+}
+
+#link {
+    font-weight: 300;
+    font-size: 25px;
+}
+
+#intro {
+    font-size: 15px;
+    color: #D11A06;
+    font-family: "Garamond", "Georgia", serif;
+}
+
+
+
