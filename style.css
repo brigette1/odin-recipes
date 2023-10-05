@@ -1,4 +1,4 @@
-body.index {
+body {
     text-align: center;
 }
 
@@ -20,5 +20,20 @@ body.index {
     font-family: "Garamond", "Georgia", serif;
 }
 
+#ingredients,
+#steps,
+ul,
+ol {
+    text-align: left;
+}
+
+.pic {
+    width: auto;
+    height: 520px
+}
+
+h1 {
+    font-size: 40px;
+}
 
 
