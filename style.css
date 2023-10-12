@@ -6,18 +6,30 @@ body {
     font-weight: 700;
     font-size: 100px;
     font-family: "Garamond", "Georgia", serif;
-    color: #D11A06
+    color: white;
+    margin-bottom: 20px
 }
 
 #link {
     font-weight: 300;
     font-size: 25px;
+    background-color: #fffee3;
+    padding: 50px;
+    margin: auto;
+    margin-bottom: 10px;
+
 }
 
 #intro {
     font-size: 15px;
-    color: #D11A06;
+    color: white;
     font-family: "Garamond", "Georgia", serif;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 700px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #AA262A
 }
 
 #ingredients,
@@ -34,6 +46,15 @@ ol {
 
 h1 {
     font-size: 40px;
+    background-color: #F7C118;
+    width: auto;
+    padding: 5px
 }
 
+#dish {
+    width: 900px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 10px
 
+}
